@@ -1,1 +1,1 @@
-# tecnomultimedia
+La historia va del muñeco de nieve del tp1. Está tranquilo en la nieve y empieza a oscurecer y debe volver a casa. Para ello, se le presentn 3 caminos de los cuales solo uno es el correcto, de otra forma oscurecerá antes de que lo haga.
