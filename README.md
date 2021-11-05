@@ -1,1 +1,2 @@
-# tecnomultimedia
+Al llamar al metodo juego.act() en la pestaña "tp5" me tira error y no se por que. Debido a esto no puedo hacer que el juego arranque y solo es posible mover el pesonaje por el escenario sin que aparezcan los obstáculos. No pude seguir programando las colisiones (pinguinos y escenario) por esto. 
+Les comento la idea del jeugo para ver que les parece y si debo modificarla: en sí es atravesar el hielo esquivando pinguinos y salir por alguna de las 3 salidas (cada una representaría una de las opciones del tp4). Si chocas con un pinguino el juego se resetearía.  
