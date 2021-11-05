@@ -1,3 +1,4 @@
 Al llamar al metodo juego.act() en el void draw de la pestaña "tp5" me tira error y no se por que. Debido a esto no puedo hacer que el juego arranque y solo es posible mover el pesonaje por el escenario sin que aparezcan los obstáculos. No pude seguir programando las colisiones (pinguinos y escenario) por esto. 
 Les comento la idea del juego para ver que les parece y si debo modificarla en el recuperatorio: en sí es atravesar el hielo esquivando pinguinos y salir por alguna de las 3 salidas (cada una representaría una de las opciones del tp4). Si chocas con un pinguino el juego se resetearía.  
 En caso de que no les guste tambien pense en hacerle unicamente 2 salidas, añadir un sistema de vidas, y si se pierden todas acceder a la 3er opcion del tp4.
+Me dijeron también que debía añadir un "return" en esta entrega y no se me ocurrió como hacerlo, alguna ayuda? Gracias :)
